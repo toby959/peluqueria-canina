@@ -79,7 +79,7 @@ ___
 
 ![Vista Principal](principal.png)
 
-![Vista CargarDatos](cargarDatos.png)
+![Vista CargarDatos](cargarDatos1.png)
 
 ![Vista ModificarDatos](modificarDatos.png)
 
