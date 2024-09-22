@@ -77,6 +77,15 @@ ___
 # Vistas 
 
 
+![Vista Principal](principal.png)
+
+![Vista CargarDatos](cargarDatos.png)
+
+![Vista ModificarDatos](modificarDatos.png)
+
+![Vista VerDatos](verDatos.png)
+___
+
 # Colaboraciones 🎯 
 Si deseas contribuir a este proyecto, por favor sigue estos pasos:  
 
